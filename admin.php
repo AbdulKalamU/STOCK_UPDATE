@@ -47,7 +47,7 @@ if (isset($_POST['update'])) {
     <tr>
         <th>Product Name</th>
         <th>Current Stock</th>
-        <th>Update Stock</th>
+        <th>Update</th>
     </tr>
 
     <?php
